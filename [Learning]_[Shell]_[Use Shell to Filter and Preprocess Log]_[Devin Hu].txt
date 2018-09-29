@@ -1,0 +1,15 @@
+1. find
+	https://www.cnblogs.com/lanchang/p/6597372.html
+2.  xargs -n1 [tar zpxf]
+	-n1： 表示每次只传递一个参数
+	-[]： 表示需要执行的shell脚本
+3. tar
+	压缩/解压缩
+4. sort
+	排序
+	https://blog.csdn.net/b_h_l/article/details/20694919
+5. uniq
+	去重, uniq所谓的重复是连续出现的相同记录
+	https://blog.csdn.net/b_h_l/article/details/20694919
+
+	
